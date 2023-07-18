@@ -6,5 +6,6 @@
 - [ ] Create a function for registration with an email or phone number and password
 - [ ] Apply the middleware (as pokerboss-server-app)
 - [ ] Create function for change password
+- [ ] Implement validation into each function 
 - [ ] The "device-id" is required for each request.
 - [ ] Create test cases with good code coverage.
